@@ -172,7 +172,7 @@ h1 span{ color: var(--gold); }
   transition: transform .6s cubic-bezier(.2,.7,.2,1);
 }
 .tile:hover .tile-art, .tile:focus-visible .tile-art, .tile.touch-active .tile-art{ transform: scale(1.07); }
-.tile-art svg{ width:44%; height:44%; opacity:.85; }
+.tile-art svg{ width:60px; height:60px; opacity:.85; }
 
 .art-1{ background: linear-gradient(155deg,#e4ded0 0%,#c9d9cc 45%,#7fa38c 100%); }
 .art-2{ background: linear-gradient(155deg,#dfe6df 0%,#a9c2b3 45%,#3f7259 100%); }
